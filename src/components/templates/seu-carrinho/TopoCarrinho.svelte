@@ -1,5 +1,5 @@
-<script>
-	export let quantidaItem = 0;
+<script lang="ts">
+	export let quantidaItem: any = 0;
 </script>
 
 <div class="rounded-lg bg-white p-5 shadow shadow-amber-50">
